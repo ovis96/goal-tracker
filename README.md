@@ -1,2 +1,2 @@
 # goal-tracker
-App which will track your daily goals
+App which help you to track your daily goals
